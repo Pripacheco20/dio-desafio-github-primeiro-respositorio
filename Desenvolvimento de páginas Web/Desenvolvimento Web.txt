@@ -1,0 +1,70 @@
+Como funciona?
+1. Computador faz uma requisição
+2. Servidor processa
+3. Servidor devolve o HTML
+4. Navegador apresenta o HTML
+
+Como de programa para internet?
+
+Através de:
+
+* Linguagem do cliente:
+- HTML: linguagem de marcação de dados
+- CSS: folha de estilos
+- JS: script no cliente
+
+* Linguagem de servidor:
+- PHP
+- ASP
+- JSP
+- COULDFUSION
+- PYTHON
+- PEARL
+
+Para que serve o HTML?
+Ele que possibilita que a informação da página seja apresentada pelo navegador.
+
+Por onde começar?
+1. Ter um navegador
+2. Um bloco de notas
+
+Primeiros passos HTML
+
+*Colocar as tags
+
+<HTML>
+<HEAD>
+   <TITLE> TÍTULO DA PÁGINA </TITLE>
+</HEAD>
+<BODY> </BODY>
+</HTML>
+
+Formatação
+
+* Títulos pré-definidos
+<h1> Título 1 </h1>
+<h2> Título 2 </h2>
+<h3> Título 3 </h3>
+<h4> Título 4 </h4>
+<h5> Título 5 </h5>
+<h6> Título 6 </h6>
+
+*Negrito
+<b> Negrito </b>
+
+*Itálico
+<i>Itálico</i>
+
+*Listas
+- Ordenadas <ol>
+1. Item
+2. Item
+
+- Desordenada <ul>
+Item 1
+Item 2
+
+- Definição <dl>
+Item 1
+  Item 2
+

@@ -1,0 +1,4 @@
+Algoritmo: Sequência finita de instruções que solucionam um problema.
+Comandos: Instruções a serem executadas
+Fluxograma: Sequência visual de algoritmos.
+Linguagem de Programação: Conjunto de regras léxicas e sintáticas, como um idioma.
